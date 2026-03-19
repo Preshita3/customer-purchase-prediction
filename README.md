@@ -2,6 +2,9 @@
 
 ---
 
+## Live app
+https://customer-purchase-prediction-egzm9332hvaelnyix9r6zt.streamlit.app/
+
 ## 📌 Project Overview
 The Customer Purchase Prediction System is a machine learning-based web application that predicts whether a customer is likely to purchase a product based on features such as age and estimated salary.
 
